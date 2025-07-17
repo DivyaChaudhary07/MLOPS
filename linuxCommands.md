@@ -77,13 +77,13 @@ rm example.txt
 touch - create a new empty file or update the timestamp of an existing file
 
 ```bash
-touch bappy.txt
+touch divya.txt
 ```
 
 cat - concatenate and display files
 
 ```bash
-cat bappy.txt
+cat divya.txt
 ```
 
 man - manual for a command
@@ -229,19 +229,19 @@ service apache2 start
 useradd - add a new user to the system
 
 ```bash
-useradd bappy
+useradd divya
 ```
 
 passwd - change the password for a user
 
 ```bash
-passwd bappy
+passwd divya
 ```
 
 userdel - delete a user from the system
 
 ```bash
-userdel bappy
+userdel divya
 ```
 
 su - switch user to become another user
@@ -307,7 +307,7 @@ ls
 finger - displays all the information about use
 
 ```bash
-finger bappy
+finger divya
 ```
 
 uname - display system information
