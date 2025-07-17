@@ -34,12 +34,6 @@ rmdir - remove a directory
 rmdir test
 ```
 
-rmdir - remove a directory
-
-```bash
-rmdir test
-```
-
 pwd - print the current working directory
 
 ```bash
